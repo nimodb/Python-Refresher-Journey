@@ -18,8 +18,10 @@ To explore this repository:
   - [Chapter 1: Variables](docs/1_variables.md) - Covers creating, using, and updating variables.
   - [Chapter 2: Comments](docs/2_comments.md) - Covers single-line and multi-line comments.
   - [Assignment 1: Purchase Calculation](_docs/3_assignment.md) - Calculates money left after buying an item with tax.
+  - [Chapter 3: String Formatting](_docs/4_string_formatting.md) - Covers formatting strings with .format() and f-strings.
 - **Code Examples**:
   - [src/1_variables.py](src/1_variables.py) - Code examples for Variables.
   - [src/2_comments.py](src/2_comments.py) - Code examples for Comments.
   - [src/3_assignment.py](src/3_assignment.py) - Code for Purchase Calculation assignment.
+  - [src/4_string_formatting.py](src/4_string_formatting.py) - Code examples for String Formatting.
   - More code files will be added to `src/` as needed.
