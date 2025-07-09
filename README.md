@@ -23,6 +23,7 @@ To explore this repository:
   - [Assignment 2: Birthday Weeks Calculation](docs/6_assignment.md) - Calculates approximate weeks until a birthday from user input.
   - [Chapter 5: Lists](docs/7_lists.md) - Covers creating, modifying, and accessing lists with indexing, slicing, and user input.
   - [Chapter 6: Sets and Tuples](docs/8_sets_and_tuples.md) - Covers creating, modifying, and accessing sets and tuples with set operations, tuple slicing, and user input.
+  - [Assignment 3: Zoo List Operations](docs/9_assignment.md) - Manipulates a list of animals using deletion, appending, and slicing.
 - **Code Examples**:
   - [src/1_variables.py](src/1_variables.py) - Code examples for Variables.
   - [src/2_comments.py](src/2_comments.py) - Code examples for Comments.
@@ -32,4 +33,5 @@ To explore this repository:
   - [src/6_assignment.py](src/6_assignment.py) - Code for Birthday Weeks Calculation assignment.
   - [src/7_lists.py](src/7_lists.py) - Code examples for Lists, including indexing and user input.
   - [src/8_sets_and_tuples.py](src/8_sets_and_tuples.py) - Code examples for Sets and Tuples, including set operations, tuple slicing, and user input.
+  - [src/9_assignment.py](src/9_assignment.py) - Code for Zoo List Operations assignment.
   - More code files will be added to `src/` as needed.
