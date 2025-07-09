@@ -21,7 +21,8 @@ To explore this repository:
   - [Chapter 3: String Formatting](docs/4_string_formatting.md) - Covers formatting strings with .format() and f-strings.
   - [Chapter 4: Getting User Input](docs/5_getting_user_input.md) - Covers collecting user input with input().
   - [Assignment 2: Birthday Weeks Calculation](docs/6_assignment.md) - Calculates approximate weeks until a birthday from user input.
-  - [Chapter 5: Lists](_docs/7_lists.md) - Covers creating, modifying, and accessing lists with indexing, slicing, and user input.
+  - [Chapter 5: Lists](docs/7_lists.md) - Covers creating, modifying, and accessing lists with indexing, slicing, and user input.
+  - [Chapter 6: Sets and Tuples](docs/8_sets_and_tuples.md) - Covers creating, modifying, and accessing sets and tuples with set operations, tuple slicing, and user input.
 - **Code Examples**:
   - [src/1_variables.py](src/1_variables.py) - Code examples for Variables.
   - [src/2_comments.py](src/2_comments.py) - Code examples for Comments.
@@ -30,4 +31,5 @@ To explore this repository:
   - [src/5_getting_user_input.py](src/5_getting_user_input.py) - Code examples for Getting User Input.
   - [src/6_assignment.py](src/6_assignment.py) - Code for Birthday Weeks Calculation assignment.
   - [src/7_lists.py](src/7_lists.py) - Code examples for Lists, including indexing and user input.
+  - [src/8_sets_and_tuples.py](src/8_sets_and_tuples.py) - Code examples for Sets and Tuples, including set operations, tuple slicing, and user input.
   - More code files will be added to `src/` as needed.
