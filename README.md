@@ -20,10 +20,12 @@ To explore this repository:
   - [Assignment 1: Purchase Calculation](docs/3_assignment.md) - Calculates money left after buying an item with tax.
   - [Chapter 3: String Formatting](docs/4_string_formatting.md) - Covers formatting strings with .format() and f-strings.
   - [Chapter 4: Getting User Input](docs/5_getting_user_input.md) - Covers collecting user input with input().
+  - [Assignment 2: Birthday Weeks Calculation](docs/6_assignment.md) - Calculates approximate weeks until a birthday from user input.
 - **Code Examples**:
   - [src/1_variables.py](src/1_variables.py) - Code examples for Variables.
   - [src/2_comments.py](src/2_comments.py) - Code examples for Comments.
   - [src/3_assignment.py](src/3_assignment.py) - Code for Purchase Calculation assignment.
   - [src/4_string_formatting.py](src/4_string_formatting.py) - Code examples for String Formatting.
   - [src/5_getting_user_input.py](src/5_getting_user_input.py) - Code examples for Getting User Input.
+  - [src/6_assignment.py](src/6_assignment.py) - Code for Birthday Weeks Calculation assignment.
   - More code files will be added to `src/` as needed.
