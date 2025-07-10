@@ -25,6 +25,7 @@ To explore this repository:
   - [Chapter 6: Sets and Tuples](docs/8_sets_and_tuples.md) - Covers creating, modifying, and accessing sets and tuples with set operations, tuple slicing, and user input.
   - [Assignment 3: Zoo List Operations](docs/9_assignment.md) - Manipulates a list of animals using deletion, appending, and slicing.
   - [Chapter 7: Boolean and Operators](docs/10_boolean_and_operators.md) - Covers comparison and logical operators for evaluating conditions.
+  - [Chapter 8: If-Else Statements](docs/11_if_else_statements.md) - Covers conditional statements for decision-making.
 - **Code Examples**:
   - [src/1_variables.py](src/1_variables.py) - Code examples for Variables.
   - [src/2_comments.py](src/2_comments.py) - Code examples for Comments.
@@ -36,4 +37,5 @@ To explore this repository:
   - [src/8_sets_and_tuples.py](src/8_sets_and_tuples.py) - Code examples for Sets and Tuples, including set operations, tuple slicing, and user input.
   - [src/9_assignment.py](src/9_assignment.py) - Code for Zoo List Operations assignment.
   - [src/10_boolean_and_operators.py](src/10_boolean_and_operators.py) - Code examples for Boolean and Operators.
+  - [src/11_if_else_statements.py](src/11_if_else_statements.py) - Code examples for If-Else Statements.
   - More code files will be added to `src/` as needed.
