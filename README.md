@@ -29,6 +29,7 @@ To explore this repository:
   - [Assignment 4: Grade Calculator](docs/12_assignment.md) - Determines letter grade from a numeric input using if-else statements.
   - [Chapter 9: Loops](docs/13_loops.md) - Covers for and while loops for iterating over lists and ranges.
   - [Assignment 5: Days of Week Loop](docs/14_assignment.md) - Prints list elements multiple times using nested loops with continue.
+  - [Chapter 10: Dictionaries](docs/15_dictionaries.md) - Covers creating, accessing, and modifying dictionaries with user input.
 - **Code Examples**:
   - [src/1_variables.py](src/1_variables.py) - Code examples for Variables.
   - [src/2_comments.py](src/2_comments.py) - Code examples for Comments.
@@ -44,4 +45,5 @@ To explore this repository:
   - [src/12_assignment.py](src/12_assignment.py) - Code for Grade Calculator assignment.
   - [src/13_loops.py](src/13_loops.py) - Code examples for Loops, including for and while loops.
   - [src/14_assignment.py](src/14_assignment.py) - Code for Days of Week Loop assignment.
+  - [src/15_dictionaries.py](src/15_dictionaries.py) - Code examples for Dictionaries, including access and modification.
   - More code files will be added to `src/` as needed.
