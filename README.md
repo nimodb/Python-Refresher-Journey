@@ -31,6 +31,7 @@ To explore this repository:
   - [Assignment 5: Days of Week Loop](docs/14_assignment.md) - Prints list elements multiple times using nested loops with continue.
   - [Chapter 10: Dictionaries](docs/15_dictionaries.md) - Covers creating, accessing, and modifying dictionaries with user input.
   - [Assignment 6: Vehicle Dictionary Operations](_docs/16_assignment.md) - Manipulates a dictionary with iteration, copying, and modification.
+  - [Chapter 11: Functions](_docs/17_functions.md) - Covers defining and using functions with parameters and return values.
 - **Code Examples**:
   - [src/1_variables.py](src/1_variables.py) - Code examples for Variables.
   - [src/2_comments.py](src/2_comments.py) - Code examples for Comments.
@@ -48,4 +49,5 @@ To explore this repository:
   - [src/14_assignment.py](src/14_assignment.py) - Code for Days of Week Loop assignment.
   - [src/15_dictionaries.py](src/15_dictionaries.py) - Code examples for Dictionaries, including access and modification.
   - [src/16_assignment.py](src/16_assignment.py) - Code for Vehicle Dictionary Operations assignment.
+  - [src/17_functions.py](src/17_functions.py) - Code examples for Functions, including parameters and return values.
   - More code files will be added to `src/` as needed.
