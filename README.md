@@ -33,6 +33,7 @@ To explore this repository:
   - [Assignment 6: Vehicle Dictionary Operations](docs/16_assignment.md) - Manipulates a dictionary with iteration, copying, and modification.
   - [Chapter 11: Functions](docs/17_functions.md) - Covers defining and using functions with parameters and return values.
   - [Assignment 7: User Dictionary Creation](docs/18_assignment.md) - Creates a dictionary from function parameters.
+  - [Chapter 12: Imports](docs/19_imports.md) - Covers importing custom modules and standard library modules.
 - **Code Examples**:
   - [src/1_variables.py](src/1_variables.py) - Code examples for Variables.
   - [src/2_comments.py](src/2_comments.py) - Code examples for Comments.
@@ -52,4 +53,5 @@ To explore this repository:
   - [src/16_assignment.py](src/16_assignment.py) - Code for Vehicle Dictionary Operations assignment.
   - [src/17_functions.py](src/17_functions.py) - Code examples for Functions, including parameters and return values.
   - [src/18_assignment.py](src/18_assignment.py) - Code for User Dictionary Creation assignment.
+  - [src/19_imports/grade_average_service.py](src/19_imports/grade_average_service.py) - Module for calculating homework average.
   - More code files will be added to `src/` as needed.
