@@ -15,6 +15,7 @@ dog.run()
 
 
 # Create a Zombie enemy
-enemy = Enemy(type_of_enemy="Zombie")
+enemy = Enemy()
+enemy.type_of_enemy = "Zombie"
 # Show enemy details
 print(f"{enemy.type_of_enemy} has {enemy.health_points} health points and can deal {enemy.attack_damage} attack damage.")

@@ -36,6 +36,7 @@ To explore this repository:
   - [Assignment 7: User Dictionary Creation](docs/018_assignment/18_assignment.md) - Creates a dictionary from function parameters.
   - [Chapter 12: Imports](docs/019_imports/19_imports.md) - Covers importing custom modules and standard library modules.
   - [Chapter 13: Object-Oriented Programming](docs/020_object_oriented_programming/20_object_oriented_programming.md) - Covers objects, their state and behavior, the four pillars of OOP, and a basic enemy battle game setup.
+  - [Chapter 14: Abstraction](docs/021_abstraction/21_abstraction.md) - Covers hiding complex details to simplify object interactions, with examples for an Enemy class.
 - **Code Examples**:
   - [src/001_variables/1_variables.py](src/001_variables/1_variables.py) - Code examples for Variables.
   - [src/002_comments/2_comments.py](src/002_comments/2_comments.py) - Code examples for Comments.
@@ -61,4 +62,6 @@ To explore this repository:
   - [src/020_object_oriented_programming/Dog.py](src/020_object_oriented_programming/Dog.py) - Code for defining a Dog class with state and behavior.
   - [src/020_object_oriented_programming/Enemy.py](src/020_object_oriented_programming/Enemy.py) - Code for defining an Enemy class for a battle game.
   - [src/020_object_oriented_programming/Main.py](src/020_object_oriented_programming/Main.py) - Code for using Dog and Enemy classes.
+  - [src/021_abstraction/Enemy.py](src/021_abstraction/Enemy.py) - Code for an Enemy class with talk, walk, and attack methods.
+  - [src/021_abstraction/Main.py](src/021_abstraction/Main.py) - Code for using the Enemy class with abstraction.
   - More code files will be added to `src/` as needed.
