@@ -39,6 +39,7 @@ To explore this repository:
   - [Chapter 14: Abstraction](docs/021_abstraction/21_abstraction.md) - Covers hiding complex details to simplify object interactions, with examples for an Enemy class.
   - [Chapter 15: Constructors](docs/022_constructors/22_constructors.md) - Covers creating and initializing objects with default, no argument, and parameter constructors.
   - [Chapter 16: Encapsulation](docs/023_encapsulation/23_encapsulation.md) - Covers bundling data and methods, using private attributes with getters and setters.
+  - [Chapter 17: Inheritance](docs/024_inheritance/24_inheritance.md) - Covers inheriting attributes and methods from parent classes, method overriding, with Animal, Dog, and Bird examples.
 
 - **Code Examples**:
   - [src/001_variables/1_variables.py](src/001_variables/1_variables.py) - Code examples for Variables.
@@ -74,3 +75,7 @@ To explore this repository:
   - [src/022_constructors/MainWithParams.py](src/022_constructors/MainWithParams.py) - Code for using the Enemy class with a parameter constructor.
   - [src/023_encapsulation/Enemy.py](src/023_encapsulation/Enemy.py) - Code for an Enemy class with private attributes and getter/setter methods.
   - [src/023_encapsulation/Main.py](src/023_encapsulation/Main.py) - Code for using the Enemy class with encapsulation.
+  - [src/024_inheritance/Animal.py](src/024_inheritance/Animal.py) - Code for the base Animal class with attributes and methods.
+  - [src/024_inheritance/Dog.py](src/024_inheritance/Dog.py) - Code for the Dog class inheriting from Animal, with method override.
+  - [src/024_inheritance/Bird.py](src/024_inheritance/Bird.py) - Code for the Bird class inheriting from Animal.
+  - [src/024_inheritance/Main.py](src/024_inheritance/Main.py) - Code for demonstrating inheritance, methods, and overriding.
