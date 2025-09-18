@@ -38,7 +38,8 @@ To explore this repository:
   - [Chapter 13: Object-Oriented Programming](docs/020_object_oriented_programming/20_object_oriented_programming.md) - Covers objects, their state and behavior, the four pillars of OOP, and a basic enemy battle game setup.
   - [Chapter 14: Abstraction](docs/021_abstraction/21_abstraction.md) - Covers hiding complex details to simplify object interactions, with examples for an Enemy class.
   - [Chapter 15: Constructors](docs/022_constructors/22_constructors.md) - Covers creating and initializing objects with default, no argument, and parameter constructors.
-  
+  - [Chapter 16: Encapsulation](docs/023_encapsulation/23_encapsulation.md) - Covers bundling data and methods, using private attributes with getters and setters.
+
 - **Code Examples**:
   - [src/001_variables/1_variables.py](src/001_variables/1_variables.py) - Code examples for Variables.
   - [src/002_comments/2_comments.py](src/002_comments/2_comments.py) - Code examples for Comments.
@@ -71,3 +72,5 @@ To explore this repository:
   - [src/022_constructors/Main.py](src/022_constructors/Main.py) - Code for using the Enemy class with a no argument constructor.
   - [src/022_constructors/EnemyWithParams.py](src/022_constructors/EnemyWithParams.py) - Code for an Enemy class with a parameter constructor.
   - [src/022_constructors/MainWithParams.py](src/022_constructors/MainWithParams.py) - Code for using the Enemy class with a parameter constructor.
+  - [src/023_encapsulation/Enemy.py](src/023_encapsulation/Enemy.py) - Code for an Enemy class with private attributes and getter/setter methods.
+  - [src/023_encapsulation/Main.py](src/023_encapsulation/Main.py) - Code for using the Enemy class with encapsulation.
